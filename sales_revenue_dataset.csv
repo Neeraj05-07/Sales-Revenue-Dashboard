@@ -1,0 +1,241 @@
+Date,Order_ID,Salesperson,Region,Product_Category,Product_Name,Quantity,Unit_Price,Revenue,Cost,Payment_Status
+2024-01-01,ORD-001,John Smith,North,Electronics,Laptop Pro 15,2,1299.99,2599.98,1400.00,Completed
+2024-01-01,ORD-002,Sarah Johnson,South,Clothing,Premium T-Shirt,15,29.99,449.85,150.00,Completed
+2024-01-02,ORD-003,Mike Chen,East,Home,Desk Lamp LED,8,49.99,399.92,160.00,Completed
+2024-01-02,ORD-004,Emily Davis,West,Electronics,Wireless Mouse,25,34.99,874.75,400.00,Completed
+2024-01-03,ORD-005,John Smith,North,Home,Coffee Maker Deluxe,5,129.99,649.95,250.00,Pending
+2024-01-03,ORD-006,Sarah Johnson,South,Clothing,Winter Jacket,10,89.99,899.90,400.00,Completed
+2024-01-04,ORD-007,Mike Chen,East,Electronics,Monitor 27 Inch,6,299.99,1799.94,900.00,Completed
+2024-01-04,ORD-008,Emily Davis,West,Home,Office Chair Executive,4,249.99,999.96,500.00,Completed
+2024-01-05,ORD-009,David Wilson,North,Clothing,Jeans Premium,20,59.99,1199.80,600.00,Completed
+2024-01-05,ORD-010,Jessica Lee,South,Electronics,Keyboard Mechanical,12,89.99,1079.88,480.00,Pending
+2024-01-06,ORD-011,John Smith,North,Home,Bookshelf Modern,3,179.99,539.97,180.00,Completed
+2024-01-06,ORD-012,Sarah Johnson,South,Clothing,Polo Shirts Set,18,39.99,719.82,280.00,Completed
+2024-01-07,ORD-013,Mike Chen,East,Electronics,USB-C Hub,30,29.99,899.70,300.00,Completed
+2024-01-07,ORD-014,Emily Davis,West,Home,Table Dining Oak,2,599.99,1199.98,700.00,Completed
+2024-01-08,ORD-015,David Wilson,North,Electronics,Headphones Noise Cancel,15,149.99,2249.85,900.00,Completed
+2024-01-08,ORD-016,Jessica Lee,South,Clothing,Sweater Wool,12,79.99,959.88,400.00,Pending
+2024-01-09,ORD-017,John Smith,North,Home,Curtains Blackout,20,34.99,699.80,200.00,Completed
+2024-01-09,ORD-018,Sarah Johnson,South,Electronics,Webcam HD,8,79.99,639.92,280.00,Completed
+2024-01-10,ORD-019,Mike Chen,East,Clothing,Dress Formal,10,129.99,1299.90,600.00,Completed
+2024-01-10,ORD-020,Emily Davis,West,Home,Mirror Wall Decorative,5,99.99,499.95,150.00,Completed
+2024-01-11,ORD-021,David Wilson,North,Electronics,Phone Stand,25,24.99,624.75,200.00,Completed
+2024-01-11,ORD-022,Jessica Lee,South,Home,Rug Persian Style,4,449.99,1799.96,800.00,Pending
+2024-01-12,ORD-023,John Smith,North,Clothing,Boxer Shorts Set,30,19.99,599.70,180.00,Completed
+2024-01-12,ORD-024,Sarah Johnson,South,Electronics,Hard Drive External,9,129.99,1169.91,450.00,Completed
+2024-01-13,ORD-025,Mike Chen,East,Home,Bed Frame Queen,3,799.99,2399.97,1200.00,Completed
+2024-01-13,ORD-026,Emily Davis,West,Clothing,Skirt Casual,14,59.99,839.86,350.00,Completed
+2024-01-14,ORD-027,David Wilson,North,Electronics,Monitor 24 Inch,7,199.99,1399.93,700.00,Pending
+2024-01-14,ORD-028,Jessica Lee,South,Home,Nightstand Wood,6,199.99,1199.94,500.00,Completed
+2024-01-15,ORD-029,John Smith,North,Clothing,Coat Winter,8,199.99,1599.92,800.00,Completed
+2024-01-15,ORD-030,Sarah Johnson,South,Electronics,Printer LaserJet,3,399.99,1199.97,600.00,Completed
+2024-01-16,ORD-031,Mike Chen,East,Home,Sofa 3-Seater,2,1199.99,2399.98,1400.00,Completed
+2024-01-16,ORD-032,Emily Davis,West,Clothing,Shorts Summer,22,39.99,879.78,300.00,Pending
+2024-01-17,ORD-033,David Wilson,North,Electronics,Router WiFi 6,5,179.99,899.95,350.00,Completed
+2024-01-17,ORD-034,Jessica Lee,South,Home,Pillow Set Luxury,8,89.99,719.92,250.00,Completed
+2024-01-18,ORD-035,John Smith,North,Clothing,Shirt Casual,25,49.99,1249.75,500.00,Completed
+2024-01-18,ORD-036,Sarah Johnson,South,Electronics,Mouse Pad Pro,40,19.99,799.60,250.00,Completed
+2024-01-19,ORD-037,Mike Chen,East,Home,Drawer Cabinet,4,249.99,999.96,400.00,Completed
+2024-01-19,ORD-038,Emily Davis,West,Electronics,Webcam 4K,6,199.99,1199.94,500.00,Pending
+2024-01-20,ORD-039,David Wilson,North,Clothing,Shoes Running,12,129.99,1559.88,600.00,Completed
+2024-01-20,ORD-040,Jessica Lee,South,Home,Desk Wooden,3,699.99,2099.97,1000.00,Completed
+2024-01-21,ORD-041,John Smith,North,Electronics,SSD 1TB,8,149.99,1199.92,500.00,Completed
+2024-01-21,ORD-042,Sarah Johnson,South,Clothing,Socks Bundle,50,9.99,499.50,150.00,Completed
+2024-01-22,ORD-043,Mike Chen,East,Home,Wall Clock Modern,10,79.99,799.90,250.00,Completed
+2024-01-22,ORD-044,Emily Davis,West,Electronics,Keyboard Wireless,11,119.99,1319.89,500.00,Completed
+2024-01-23,ORD-045,David Wilson,North,Clothing,Hat Baseball,18,29.99,539.82,150.00,Pending
+2024-01-23,ORD-046,Jessica Lee,South,Electronics,Monitor Curved,4,449.99,1799.96,800.00,Completed
+2024-01-24,ORD-047,John Smith,North,Home,Mattress Queen,2,999.99,1999.98,1000.00,Completed
+2024-01-24,ORD-048,Sarah Johnson,South,Clothing,Dress Casual,8,99.99,799.92,350.00,Completed
+2024-01-25,ORD-049,Mike Chen,East,Electronics,Laptop Stand,15,49.99,749.85,250.00,Completed
+2024-01-25,ORD-050,Emily Davis,West,Home,Shelving Unit,5,199.99,999.95,400.00,Pending
+2024-02-01,ORD-051,David Wilson,North,Electronics,Power Bank,20,49.99,999.80,300.00,Completed
+2024-02-01,ORD-052,Jessica Lee,South,Clothing,Blouse Formal,9,89.99,809.91,350.00,Completed
+2024-02-02,ORD-053,John Smith,North,Home,Plant Pot Set,12,29.99,359.88,100.00,Completed
+2024-02-02,ORD-054,Sarah Johnson,South,Electronics,Phone Case,35,19.99,699.65,200.00,Completed
+2024-02-03,ORD-055,Mike Chen,East,Clothing,Scarf Winter,16,39.99,639.84,250.00,Pending
+2024-02-03,ORD-056,Emily Davis,West,Electronics,Screen Protector,60,9.99,599.40,150.00,Completed
+2024-02-04,ORD-057,David Wilson,North,Home,Storage Basket,8,49.99,399.92,120.00,Completed
+2024-02-04,ORD-058,Jessica Lee,South,Electronics,USB Hub,14,34.99,489.86,180.00,Completed
+2024-02-05,ORD-059,John Smith,North,Clothing,Gloves Leather,11,59.99,659.89,300.00,Completed
+2024-02-05,ORD-060,Sarah Johnson,South,Home,Floor Mat,6,79.99,479.94,150.00,Pending
+2024-02-06,ORD-061,Mike Chen,East,Electronics,Camera DSLR,3,899.99,2699.97,1200.00,Completed
+2024-02-06,ORD-062,Emily Davis,West,Clothing,Pants Chino,10,79.99,799.90,350.00,Completed
+2024-02-07,ORD-063,David Wilson,North,Home,Lamp Floor,4,149.99,599.96,200.00,Completed
+2024-02-07,ORD-064,Jessica Lee,South,Electronics,Tripod Camera,7,99.99,699.93,280.00,Completed
+2024-02-08,ORD-065,John Smith,North,Clothing,Suit Formal,5,399.99,1999.95,1000.00,Pending
+2024-02-08,ORD-066,Sarah Johnson,South,Home,Wall Decor Set,9,69.99,629.91,200.00,Completed
+2024-02-09,ORD-067,Mike Chen,East,Electronics,Camera Lens,2,699.99,1399.98,600.00,Completed
+2024-02-09,ORD-068,Emily Davis,West,Clothing,Tie Collection,8,49.99,399.92,150.00,Completed
+2024-02-10,ORD-069,David Wilson,North,Electronics,Flash Card,25,39.99,999.75,350.00,Completed
+2024-02-10,ORD-070,Jessica Lee,South,Home,Mirror Cabinet,3,299.99,899.97,400.00,Completed
+2024-02-11,ORD-071,John Smith,North,Clothing,Undershirts,20,24.99,499.80,150.00,Completed
+2024-02-11,ORD-072,Sarah Johnson,South,Electronics,Phone Charger Fast,16,39.99,639.84,200.00,Pending
+2024-02-12,ORD-073,Mike Chen,East,Home,Bedsheet Set,7,89.99,629.93,200.00,Completed
+2024-02-12,ORD-074,Emily Davis,West,Electronics,Screen Cleaner Kit,22,19.99,439.78,100.00,Completed
+2024-02-13,ORD-075,David Wilson,North,Clothing,Jacket Leather,4,199.99,799.96,450.00,Completed
+2024-02-13,ORD-076,Jessica Lee,South,Home,Throw Blanket,10,49.99,499.90,150.00,Completed
+2024-02-14,ORD-077,John Smith,North,Electronics,Bluetooth Speaker,9,99.99,899.91,350.00,Pending
+2024-02-14,ORD-078,Sarah Johnson,South,Clothing,Dress Elegant,6,149.99,899.94,450.00,Completed
+2024-02-15,ORD-079,Mike Chen,East,Home,Dining Chair Set,4,199.99,799.96,350.00,Completed
+2024-02-15,ORD-080,Emily Davis,West,Electronics,Phone Holder,18,29.99,539.82,150.00,Completed
+2024-02-16,ORD-081,David Wilson,North,Clothing,Sweater Cardigan,7,99.99,699.93,350.00,Completed
+2024-02-16,ORD-082,Jessica Lee,South,Home,Bookcase Wall,2,399.99,799.98,400.00,Pending
+2024-02-17,ORD-083,John Smith,North,Electronics,External Mouse,12,44.99,539.88,200.00,Completed
+2024-02-17,ORD-084,Sarah Johnson,South,Clothing,Shirt Dress,11,79.99,879.89,350.00,Completed
+2024-02-18,ORD-085,Mike Chen,East,Home,Rug Contemporary,3,349.99,1049.97,450.00,Completed
+2024-02-18,ORD-086,Emily Davis,West,Electronics,Laptop Cooling Pad,8,59.99,479.92,150.00,Completed
+2024-02-19,ORD-087,David Wilson,North,Clothing,Coat Peacoat,5,279.99,1399.95,700.00,Completed
+2024-02-19,ORD-088,Jessica Lee,South,Electronics,Monitor Arm,6,129.99,779.94,300.00,Completed
+2024-02-20,ORD-089,John Smith,North,Home,Desk Organizer,14,39.99,559.86,150.00,Pending
+2024-02-20,ORD-090,Sarah Johnson,South,Clothing,Pants Jogger,13,59.99,779.87,300.00,Completed
+2024-02-21,ORD-091,Mike Chen,East,Electronics,Phone Stand Desk,11,34.99,384.89,120.00,Completed
+2024-02-21,ORD-092,Emily Davis,West,Home,Lamp Desk LED,7,79.99,559.93,200.00,Completed
+2024-02-22,ORD-093,David Wilson,North,Clothing,Boots Winter,6,149.99,899.94,450.00,Completed
+2024-02-22,ORD-094,Jessica Lee,South,Electronics,Keyboard Pad,20,29.99,599.80,150.00,Completed
+2024-02-23,ORD-095,John Smith,North,Home,Canvas Art Set,9,89.99,809.91,250.00,Completed
+2024-02-23,ORD-096,Sarah Johnson,South,Clothing,Leggings,12,49.99,599.88,200.00,Pending
+2024-02-24,ORD-097,Mike Chen,East,Electronics,Camera Mount,10,49.99,499.90,150.00,Completed
+2024-02-24,ORD-098,Emily Davis,West,Home,Cushion Set,8,59.99,479.92,150.00,Completed
+2024-02-25,ORD-099,David Wilson,North,Clothing,Shirt Linen,10,59.99,599.90,250.00,Completed
+2024-02-25,ORD-100,Jessica Lee,South,Electronics,USB Cable Bundle,30,14.99,449.70,100.00,Completed
+2024-03-01,ORD-101,John Smith,North,Home,Vase Ceramic,6,79.99,479.94,150.00,Completed
+2024-03-01,ORD-102,Sarah Johnson,South,Electronics,Phone Grip Ring,25,19.99,499.75,125.00,Pending
+2024-03-02,ORD-103,Mike Chen,East,Clothing,Vest Casual,8,69.99,559.92,250.00,Completed
+2024-03-02,ORD-104,Emily Davis,West,Home,Table Side Oak,4,299.99,1199.96,500.00,Completed
+2024-03-03,ORD-105,David Wilson,North,Electronics,Hard Drive Desktop,5,179.99,899.95,350.00,Completed
+2024-03-03,ORD-106,Jessica Lee,South,Clothing,Shirt Oxford,14,79.99,1119.86,450.00,Completed
+2024-03-04,ORD-107,John Smith,North,Home,Wall Shelf,7,99.99,699.93,200.00,Pending
+2024-03-04,ORD-108,Sarah Johnson,South,Electronics,Phone Lens,18,59.99,1079.82,400.00,Completed
+2024-03-05,ORD-109,Mike Chen,East,Clothing,Cardigan Zip,9,89.99,809.91,350.00,Completed
+2024-03-05,ORD-110,Emily Davis,West,Home,Bench Entryway,2,499.99,999.98,500.00,Completed
+2024-03-06,ORD-111,David Wilson,North,Electronics,Adapter HDMI,28,29.99,839.72,250.00,Completed
+2024-03-06,ORD-112,Jessica Lee,South,Clothing,Jacket Bomber,6,119.99,719.94,350.00,Completed
+2024-03-07,ORD-113,John Smith,North,Home,Plant Large,4,149.99,599.96,200.00,Completed
+2024-03-07,ORD-114,Sarah Johnson,South,Electronics,Cable Organizer,16,24.99,399.84,100.00,Pending
+2024-03-08,ORD-115,Mike Chen,East,Clothing,Shirt Polo,12,59.99,719.88,300.00,Completed
+2024-03-08,ORD-116,Emily Davis,West,Home,Door Mat,5,39.99,199.95,60.00,Completed
+2024-03-09,ORD-117,David Wilson,North,Electronics,Phone Case Armor,22,29.99,659.78,200.00,Completed
+2024-03-09,ORD-118,Jessica Lee,South,Clothing,Pants Casual,9,69.99,629.91,300.00,Completed
+2024-03-10,ORD-119,John Smith,North,Home,Picture Frame Set,10,39.99,399.90,100.00,Completed
+2024-03-10,ORD-120,Sarah Johnson,South,Electronics,Monitor Light,7,49.99,349.93,120.00,Completed
+2024-03-11,ORD-121,Mike Chen,East,Clothing,Skirt Pleated,8,79.99,639.92,300.00,Pending
+2024-03-11,ORD-122,Emily Davis,West,Electronics,Phone Charger Wireless,6,59.99,359.94,120.00,Completed
+2024-03-12,ORD-123,David Wilson,North,Home,Rug Runner,3,199.99,599.97,200.00,Completed
+2024-03-12,ORD-124,Jessica Lee,South,Clothing,Shirt Henley,15,44.99,674.85,250.00,Completed
+2024-03-13,ORD-125,John Smith,North,Electronics,Stylus Pen,14,39.99,559.86,180.00,Completed
+2024-03-13,ORD-126,Sarah Johnson,South,Home,Cabinet Storage,2,599.99,1199.98,600.00,Pending
+2024-03-14,ORD-127,Mike Chen,East,Clothing,Dress Maxi,7,129.99,909.93,450.00,Completed
+2024-03-14,ORD-128,Emily Davis,West,Electronics,Keyboard Cover,18,19.99,359.82,80.00,Completed
+2024-03-15,ORD-129,David Wilson,North,Home,Lamp Table,5,129.99,649.95,250.00,Completed
+2024-03-15,ORD-130,Jessica Lee,South,Clothing,Vest Wool,8,99.99,799.92,400.00,Completed
+2024-03-16,ORD-131,John Smith,North,Electronics,Phone Filter,20,24.99,499.80,120.00,Completed
+2024-03-16,ORD-132,Sarah Johnson,South,Home,Wall Hooks Set,12,19.99,239.88,60.00,Completed
+2024-03-17,ORD-133,Mike Chen,East,Clothing,Shirt Denim,9,79.99,719.91,350.00,Pending
+2024-03-17,ORD-134,Emily Davis,West,Electronics,Mouse Wireless Pro,10,79.99,799.90,300.00,Completed
+2024-03-18,ORD-135,David Wilson,North,Home,Clock Wall Digital,4,89.99,359.96,120.00,Completed
+2024-03-18,ORD-136,Jessica Lee,South,Clothing,Shirt Stripe,13,49.99,649.87,250.00,Completed
+2024-03-19,ORD-137,John Smith,North,Electronics,Phone Strap,30,14.99,449.70,90.00,Completed
+2024-03-19,ORD-138,Sarah Johnson,South,Home,Frame Mirror,6,149.99,899.94,350.00,Completed
+2024-03-20,ORD-139,Mike Chen,East,Clothing,Blazer Slim,5,249.99,1249.95,600.00,Completed
+2024-03-20,ORD-140,Emily Davis,West,Electronics,Screen Filter,11,39.99,439.89,150.00,Pending
+2024-04-01,ORD-141,David Wilson,North,Home,Shelves Wall Mount,8,129.99,1039.92,400.00,Completed
+2024-04-01,ORD-142,Jessica Lee,South,Electronics,Laptop Bag,7,99.99,699.93,280.00,Completed
+2024-04-02,ORD-143,John Smith,North,Clothing,Shirt Summer,16,44.99,719.84,300.00,Completed
+2024-04-02,ORD-144,Sarah Johnson,South,Home,Coaster Set,18,14.99,269.82,50.00,Pending
+2024-04-03,ORD-145,Mike Chen,East,Electronics,Phone Holder Car,13,34.99,454.87,150.00,Completed
+2024-04-03,ORD-146,Emily Davis,West,Clothing,Shorts Khaki,11,49.99,549.89,200.00,Completed
+2024-04-04,ORD-147,David Wilson,North,Home,Light Bulb LED,24,9.99,239.76,50.00,Completed
+2024-04-04,ORD-148,Jessica Lee,South,Electronics,USB Extension,20,19.99,399.80,100.00,Completed
+2024-04-05,ORD-149,John Smith,North,Clothing,Jacket Sport,6,179.99,1079.94,500.00,Completed
+2024-04-05,ORD-150,Sarah Johnson,South,Home,Vase Glass,5,99.99,499.95,150.00,Pending
+2024-04-06,ORD-151,Mike Chen,East,Electronics,Monitor Stand,9,79.99,719.91,250.00,Completed
+2024-04-06,ORD-152,Emily Davis,West,Clothing,Shirt Casual Summer,14,54.99,769.86,300.00,Completed
+2024-04-07,ORD-153,David Wilson,North,Home,Decor Mirror,3,179.99,539.97,180.00,Completed
+2024-04-07,ORD-154,Jessica Lee,South,Electronics,Keyboard Mechanical RGB,4,199.99,799.96,350.00,Completed
+2024-04-08,ORD-155,John Smith,North,Clothing,Pants Cargo,10,79.99,799.90,350.00,Completed
+2024-04-08,ORD-156,Sarah Johnson,South,Home,Wall Clock Wood,6,79.99,479.94,150.00,Completed
+2024-04-09,ORD-157,Mike Chen,East,Electronics,Phone Case Clear,28,24.99,699.72,200.00,Pending
+2024-04-09,ORD-158,Emily Davis,West,Clothing,Shirt Graphic,17,39.99,679.83,250.00,Completed
+2024-04-10,ORD-159,David Wilson,North,Home,Cabinet Accent,2,449.99,899.98,450.00,Completed
+2024-04-10,ORD-160,Jessica Lee,South,Electronics,Monitor Flex Arm,5,149.99,749.95,300.00,Completed
+2024-04-11,ORD-161,John Smith,North,Clothing,Shirt Linen Summer,12,64.99,779.88,350.00,Completed
+2024-04-11,ORD-162,Sarah Johnson,South,Home,Lamp Pendant,4,129.99,519.96,200.00,Pending
+2024-04-12,ORD-163,Mike Chen,East,Electronics,Stylus Digital,8,69.99,559.92,200.00,Completed
+2024-04-12,ORD-164,Emily Davis,West,Clothing,Shorts Athletic,15,49.99,749.85,250.00,Completed
+2024-04-13,ORD-165,David Wilson,North,Home,Stool Counter,3,299.99,899.97,400.00,Completed
+2024-04-13,ORD-166,Jessica Lee,South,Electronics,Phone Ring Stand,22,19.99,439.78,100.00,Completed
+2024-04-14,ORD-167,John Smith,North,Clothing,Vest Tank,20,34.99,699.80,200.00,Completed
+2024-04-14,ORD-168,Sarah Johnson,South,Home,Canvas Print Large,3,199.99,599.97,200.00,Completed
+2024-04-15,ORD-169,Mike Chen,East,Electronics,USB Type-C Cable,32,14.99,479.68,100.00,Pending
+2024-04-15,ORD-170,Emily Davis,West,Clothing,Shirt Polo Summer,10,54.99,549.90,200.00,Completed
+2024-04-16,ORD-171,David Wilson,North,Home,Frame Wood Picture,8,89.99,719.92,250.00,Completed
+2024-04-16,ORD-172,Jessica Lee,South,Electronics,Cooling Pad Laptop,6,79.99,479.94,150.00,Completed
+2024-04-17,ORD-173,John Smith,North,Clothing,Pants Shorts,13,44.99,584.87,200.00,Completed
+2024-04-17,ORD-174,Sarah Johnson,South,Home,Rug Wool,2,349.99,699.98,300.00,Pending
+2024-04-18,ORD-175,Mike Chen,East,Electronics,Phone Case Wallet,16,39.99,639.84,200.00,Completed
+2024-04-18,ORD-176,Emily Davis,West,Clothing,Dress Summer,9,99.99,899.91,400.00,Completed
+2024-04-19,ORD-177,David Wilson,North,Home,Shelving Industrial,2,599.99,1199.98,600.00,Completed
+2024-04-19,ORD-178,Jessica Lee,South,Electronics,Monitor Filter Blue Light,8,49.99,399.92,120.00,Completed
+2024-04-20,ORD-179,John Smith,North,Clothing,Jacket Denim,5,149.99,749.95,350.00,Completed
+2024-04-20,ORD-180,Sarah Johnson,South,Home,Wall Decor Metal,7,89.99,629.93,200.00,Completed
+2024-05-01,ORD-181,Mike Chen,East,Electronics,Phone Charger Solar,10,79.99,799.90,300.00,Pending
+2024-05-01,ORD-182,Emily Davis,West,Clothing,Shorts Denim,12,54.99,659.88,250.00,Completed
+2024-05-02,ORD-183,David Wilson,North,Home,Cabinet Wall,3,449.99,1349.97,600.00,Completed
+2024-05-02,ORD-184,Jessica Lee,South,Electronics,Laptop Stand Portable,9,59.99,539.91,180.00,Completed
+2024-05-03,ORD-185,John Smith,North,Clothing,Shirt Henley Summer,11,49.99,549.89,200.00,Completed
+2024-05-03,ORD-186,Sarah Johnson,South,Home,Frame Gallery,5,149.99,749.95,300.00,Pending
+2024-05-04,ORD-187,Mike Chen,East,Electronics,Phone Shield,24,29.99,719.76,200.00,Completed
+2024-05-04,ORD-188,Emily Davis,West,Clothing,Vest Summer,8,39.99,319.92,120.00,Completed
+2024-05-05,ORD-189,David Wilson,North,Home,Bench Wood Dining,2,699.99,1399.98,700.00,Completed
+2024-05-05,ORD-190,Jessica Lee,South,Electronics,Monitor Desk Lamp,6,129.99,779.94,300.00,Completed
+2024-05-06,ORD-191,John Smith,North,Clothing,Pants Khaki Summer,10,69.99,699.90,300.00,Completed
+2024-05-06,ORD-192,Sarah Johnson,South,Home,Decor Vase,4,179.99,719.96,250.00,Completed
+2024-05-07,ORD-193,Mike Chen,East,Electronics,Keyboard Slim,7,149.99,1049.93,400.00,Pending
+2024-05-07,ORD-194,Emily Davis,West,Clothing,Shirt Casual Summer,15,44.99,674.85,250.00,Completed
+2024-05-08,ORD-195,David Wilson,North,Home,Plant Pot Ceramic,8,39.99,319.92,100.00,Completed
+2024-05-08,ORD-196,Jessica Lee,South,Electronics,Phone Tripod Stand,14,49.99,699.86,250.00,Completed
+2024-05-09,ORD-197,John Smith,North,Clothing,Shorts Casual,16,49.99,799.84,300.00,Completed
+2024-05-09,ORD-198,Sarah Johnson,South,Home,Wall Mirror Round,3,249.99,749.97,300.00,Pending
+2024-05-10,ORD-199,Mike Chen,East,Electronics,USB Hub Type-C,12,64.99,779.88,300.00,Completed
+2024-05-10,ORD-200,Emily Davis,West,Clothing,Dress Casual Summer,7,89.99,629.93,300.00,Completed
+2024-05-11,ORD-201,David Wilson,North,Home,Shelf Unit Modern,4,299.99,1199.96,500.00,Completed
+2024-05-11,ORD-202,Jessica Lee,South,Electronics,Phone Case Leather,9,69.99,629.91,250.00,Completed
+2024-05-12,ORD-203,John Smith,North,Clothing,Shirt Linen,8,74.99,599.92,250.00,Completed
+2024-05-12,ORD-204,Sarah Johnson,South,Home,Art Canvas Modern,6,249.99,1499.94,600.00,Completed
+2024-05-13,ORD-205,Mike Chen,East,Electronics,Monitor Portable,5,499.99,2499.95,1000.00,Pending
+2024-05-13,ORD-206,Emily Davis,West,Clothing,Jacket Casual Summer,5,129.99,649.95,300.00,Completed
+2024-05-14,ORD-207,David Wilson,North,Home,Table Accent,2,399.99,799.98,350.00,Completed
+2024-05-14,ORD-208,Jessica Lee,South,Electronics,Laptop Sleeve,10,49.99,499.90,150.00,Completed
+2024-05-15,ORD-209,John Smith,North,Clothing,Pants Casual Summer,9,64.99,584.91,250.00,Completed
+2024-05-15,ORD-210,Sarah Johnson,South,Home,Decoration Set,7,99.99,699.93,250.00,Completed
+2024-05-16,ORD-211,Mike Chen,East,Electronics,Phone Dock,8,89.99,719.92,280.00,Completed
+2024-05-16,ORD-212,Emily Davis,West,Clothing,Shirt Polo Summer,12,59.99,719.88,300.00,Pending
+2024-05-17,ORD-213,David Wilson,North,Home,Wall Shelves Set,5,179.99,899.95,350.00,Completed
+2024-05-17,ORD-214,Jessica Lee,South,Electronics,Screen Protector Premium,18,24.99,449.82,120.00,Completed
+2024-05-18,ORD-215,John Smith,North,Clothing,Shorts Athletic Summer,14,54.99,769.86,300.00,Completed
+2024-05-18,ORD-216,Sarah Johnson,South,Home,Mirror Accent,4,199.99,799.96,300.00,Completed
+2024-05-19,ORD-217,Mike Chen,East,Electronics,Keyboard Cover Leather,11,39.99,439.89,150.00,Completed
+2024-05-19,ORD-218,Emily Davis,West,Clothing,Dress Sundress,6,99.99,599.94,250.00,Completed
+2024-05-20,ORD-219,David Wilson,North,Home,Cabinet Glass,2,599.99,1199.98,600.00,Pending
+2024-05-20,ORD-220,Jessica Lee,South,Electronics,Phone Stand Adjustable,16,39.99,639.84,200.00,Completed
+2024-06-01,ORD-221,John Smith,North,Clothing,Shirt Summer,13,54.99,714.87,300.00,Completed
+2024-06-01,ORD-222,Sarah Johnson,South,Home,Plant Large Pot,3,199.99,599.97,200.00,Completed
+2024-06-02,ORD-223,Mike Chen,East,Electronics,Monitor Premium,4,799.99,3199.96,1500.00,Pending
+2024-06-02,ORD-224,Emily Davis,West,Clothing,Shorts Summer,10,49.99,499.90,200.00,Completed
+2024-06-03,ORD-225,David Wilson,North,Home,Sofa Loveseat,1,1499.99,1499.99,800.00,Completed
+2024-06-03,ORD-226,Jessica Lee,South,Electronics,Laptop Dock,6,199.99,1199.94,500.00,Completed
+2024-06-04,ORD-227,John Smith,North,Clothing,Shirt Casual,17,49.99,849.83,350.00,Completed
+2024-06-04,ORD-228,Sarah Johnson,South,Home,Wall Clock,5,99.99,499.95,150.00,Pending
+2024-06-05,ORD-229,Mike Chen,East,Electronics,Phone Charger Multi,14,59.99,839.86,300.00,Completed
+2024-06-05,ORD-230,Emily Davis,West,Clothing,Dress Summer,8,99.99,799.92,350.00,Completed
+2024-06-06,ORD-231,David Wilson,North,Home,Rug Large,2,599.99,1199.98,500.00,Completed
+2024-06-06,ORD-232,Jessica Lee,South,Electronics,Monitor Stand Premium,7,179.99,1259.93,500.00,Completed
+2024-06-07,ORD-233,John Smith,North,Clothing,Jacket Summer,6,129.99,779.94,350.00,Completed
+2024-06-07,ORD-234,Sarah Johnson,South,Home,Art Frame,4,299.99,1199.96,500.00,Completed
+2024-06-08,ORD-235,Mike Chen,East,Electronics,Phone Cable Bundle,25,24.99,624.75,150.00,Pending
+2024-06-08,ORD-236,Emily Davis,West,Clothing,Shirt Polo,11,59.99,659.89,300.00,Completed
+2024-06-09,ORD-237,David Wilson,North,Home,Furniture Set,1,2999.99,2999.99,1500.00,Completed
+2024-06-09,ORD-238,Jessica Lee,South,Electronics,Laptop Desk Stand,8,129.99,1039.92,400.00,Completed
+2024-06-10,ORD-239,John Smith,North,Clothing,Pants Casual,9,69.99,629.91,300.00,Completed
+2024-06-10,ORD-240,Sarah Johnson,South,Home,Decor Set Premium,5,399.99,1999.95,900.00,Completed
