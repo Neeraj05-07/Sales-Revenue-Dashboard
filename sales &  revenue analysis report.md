@@ -123,12 +123,12 @@ Revenue distribution across product categories reveals market demand patterns an
 
 ### Category Performance
 
-| Category | Total Revenue | Units Sold | Avg Price | % of Total |
-|----------|--------------|-----------|-----------|-----------|
-| **Electronics** | $52,345.67 | 78 | $670.07 | 25.76% |
-| **Clothing** | $48,234.56 | 135 | $357.29 | 23.73% |
-| **Home** | $51,892.45 | 82 | $632.83 | 25.53% |
-| **Other** | $50,611.88 | 45 | $1,124.71 | 24.91% |
+| Category | Total Revenue | Units Sold | Avg Price |
+|----------|--------------|-----------|-----------|
+| **Electronics** | $52,345.67 | 78 | $670.07 | 
+| **Clothing** | $48,234.56 | 135 | $357.29 | 
+| **Home** | $51,892.45 | 82 | $632.83 |
+
 
 ### Category Insights:
 
@@ -333,12 +333,6 @@ With focused execution of the recommended actions, the organization is well-posi
 | **Data Records** | 240 transactions |
 | **Version** | 1.0 |
 | **Status** | Final |
-
-### Confidentiality Notice:
-
-This report contains confidential business information and should be treated as internal-use only. All data presented is based on transaction records from the specified period and is subject to verification. Distribution should be limited to authorized personnel only.
-
-For questions or clarifications regarding this report, please contact the Analytics team.
 
 ---
 
